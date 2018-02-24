@@ -16,7 +16,8 @@
 
 title: Cy
 email: constantchen525@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
+  A personal website about technical things I find useful. Also, random ramblings and rants.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://constannnnnt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  constannnnnt
@@ -27,6 +28,17 @@ markdown: kramdown
 theme: lanyon
 plugins:
   - jekyll-feed
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: true
+
+# External gems
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
