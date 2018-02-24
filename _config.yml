@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A personal website about technical things I find useful, 
   beautiful things I wanna share and thoughts that I wanna discuss. 
   Also, random ramblings and rants.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://constannnnnt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  constannnnnt
 production_url : http://constannnnnt.github.io/blog/
