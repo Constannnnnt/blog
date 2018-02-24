@@ -21,23 +21,16 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://constannnnnt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  constannnnnt
-production_url : http://constannnnnt.github.io/blog
+production_url : http://constannnnnt.github.io/blog/
 
 # Build settings
 markdown: kramdown
-theme: lanyon
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: true
-
-# External gems
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
-  - jekyll-seo-tag
 
 
 # Exclude from processing.
