@@ -6,7 +6,7 @@ layout: default
   <h2 class="post-title">{{ page.title }}</h2>
   <span class="post-date">{{ page.date | date_to_string }}
   {% if page.tags != empty %} | {% for tag in page.tags %}
-  <a class="codinfox-tag-mark" href="{{ site.baseurl }}/tag.html/#{{ tag | slugify }}">{{ tag }}</a>
+  <a class="codinfox-tag-mark" href="{{ site.baseurl }}/tag.html#{{ tag | slugify }}">{{ tag }}</a>
   {% endfor %} {% endif %}
   </span>
   {{ content }}
