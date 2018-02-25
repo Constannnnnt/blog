@@ -24,13 +24,14 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://constannnnnt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  constannnnnt
 production_url : http://constannnnnt.github.io/blog/
-permalink: /tag/
+# permalink: /tag/about/
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: true
