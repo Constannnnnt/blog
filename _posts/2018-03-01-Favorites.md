@@ -1,7 +1,8 @@
-```
-title: My Favorites
-tag: personal
-```
+----
+-layout: post
+-title: My Favorites
+-tags: [personal]
+----
 
 ```Continuously Updated```
 
