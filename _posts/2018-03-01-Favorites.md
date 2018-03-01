@@ -1,8 +1,8 @@
-----
--layout: post
--title: My Favorites
--tags: [personal]
-----
+---
+layout: post
+title: My Favorites
+tags: [personal]
+---
 
 ```Continuously Updated```
 
