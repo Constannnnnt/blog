@@ -1,7 +1,7 @@
-'''
+```
 title: My Favorites
 tag: personal
-'''
+```
 
 ```Continuously Updated```
 
