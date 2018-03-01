@@ -12,7 +12,7 @@ tags: [personal]
 3. 东野圭吾 - 《白夜行》（《Journey Under the Midnight Sun》《びゃくやこう》）
 
 ### Anime
-1. 玉子爱情故事（たまこまーけっと Tamako Market）
+1. 玉子爱情故事（たまこまーけっと Tamako Love Story）
 2. 紫罗兰永恒花园（Violet Evergardern）
 3. 冰菓（Hyouka）
 
