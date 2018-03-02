@@ -11,6 +11,7 @@ tags: [personal]
 当然这个记录挺杂的，所以有人有幸发现了这个记录表，也可以当作一份个人向的推荐。（笑
 
 ```Continuously Updated```
+<!--excerpt-->
 
 ### Books
 1. 史铁生 - 《我与地坛》

@@ -21,12 +21,8 @@ title: Home
       {% endfor %} {% endif %}
     </span>
 
-
-    <!-- <span class="post-date">{{ post.date | date_to_string }}</span> -->
-
-    <!-- {{ post.content }} -->
-
-    {{ post.excerpt }} 
+    {{ post.excerpt}}
+    
     {% if post.content contains site.excerpt_separator %}
       <a href="{{ post.url | prepend: site.baseurl }}">...Read more</a>
     {% endif %}
