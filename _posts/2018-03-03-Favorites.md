@@ -15,7 +15,7 @@ tags: [personal]
 
 ### Books
 1. 史铁生 - 《我与地坛》
-2. 东野圭吾 - 《嫌疑人X的献生》（《The Devotion of Suspect X》《容疑者Xの献身》）
+2. 东野圭吾 - 《嫌疑人X的献身》（《The Devotion of Suspect X》《容疑者Xの献身》）
 3. 东野圭吾 - 《白夜行》（《Journey Under the Midnight Sun》《びゃくやこう》）
 4. 江南 - 《龙族Ⅲ黑月之潮》
 5. 龙应台 - 《目送》
@@ -117,6 +117,7 @@ tags: [personal]
 27. 五月天（Mayday） - 如果我們不曾相遇（What If We Had Never Met）
 28. 毛不易 - 消愁
 29. 毛不易 - 像我这样的人
+30. Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez)
 
 ### TV Series
 1. Legal High
