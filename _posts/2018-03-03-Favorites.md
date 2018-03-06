@@ -118,6 +118,11 @@ tags: [personal]
 28. 毛不易 - 消愁
 29. 毛不易 - 像我这样的人
 30. Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez)
+31. RADWIMPS（ラッドウィンプス） - なんでもないや（没什么大不了）
+32. RADWIMPS（ラッドウィンプス） - 夢灯籠 (Dream Lantern)
+33. BOBBY（金知元） - I LOVE YOU
+34. BOBBY（金知元） - RUNAWAY
+35. ぼくのりりっくのぼうよみ - 朝焼けと熱帯魚
 
 ### TV Series
 1. Legal High
