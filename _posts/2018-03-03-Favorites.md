@@ -89,6 +89,7 @@ tags: [personal]
 
 ### Music (Singers)
 1. 周杰伦（Jay Chou）- 所有的歌（All Songs）
+2. 米津玄师（米津玄師）- All Songs
 2. Winner - Have a Good Day
 3. Winner - Really Really
 4. 臉紅的思春期（볼빨간사춘기 Bolbbalgan4) - 우주를 줄게 (Galaxy)
